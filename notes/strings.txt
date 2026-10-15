@@ -1,0 +1,1151 @@
+!This program cannot be run in DOS mode.
+.text
+`.rdata
+@.data
+.idata
+.rsrc
+@.reloc
+j$j@
+MDSI
+XSVW
+8RIFF
+MIDS
+8fmt 
+8data
+8MDSI
+data
+ SVW
+8MDSI
+8MDSI
+8MDSI
+E +E
+E$+E
+0SVW
+tSVW
+SVWj
+=pYB
+5pYB
+=tYB
+xSVW
+SVWj
+SVWj
+j$h|
+j$hX
+j$hx
+(SVW
+RIFF
+WAVE
+fmt 
+data
+SVWj
+tSVW
+=<iB
+=@iB
+=@iB
+hHiB
+hHiB
+hHiB
+hHiB
+=<iB
+=@iB
+=@iB
+=<iB
+=@iB
+$SVW
+SVWh
+PhHiB
+$SVW
+h(&B
+hH&B
+h\&B
+h|&B
+h 'B
+h4'B
+j)hJ
+h`'B
+j%h^
+SVWj
+SVWj
+ SVW
+0Pj0j
+SVWj
+ SVW
+SVWh
+SVWh
+SVWh
+tSVW
+SVWj
+hSVW
+E$1E
+E$1E
+E 1E
+E 1E
+E$+E
+M$+M
+E$+E
+E +E
+E$+E
+E$+E
+E +E
+PSVW
+PSVW
+4SVW
+h((B
+h@(B
+h\(B
+hx(B
+SVWh
+Ph N
+SVWh
+Ph N
+SVWh
+SVWh
+h,)B
+h4)B
+ht)B
+h|)B
+h,*B
+h4*B
+hh*B
+hp*B
+hT+B
+h\+B
+ SVW
+h$,B
+h,,B
+h@,B
+h|,B
+j?j0
+SVWj2
+SVWj
+h$-B
+h4-B
+h@-B
+hL-B
+hX-B
+hd-B
+hp-B
+h|-B
+h(.B
+h8.B
+hD.B
+hP.B
+h\.B
+hl.B
+hx.B
+(SVW
+= -B
+0SVW
++A P
++A P
+SVWh
+ SVW
+DSVW
+$SVWj
+,SVW
+8SVWj
+SVWj
+@SVW
+D$.%
+D$ %
+D$.%
+D$ %
+$PQj
+]_^[
+^9l$
+D$(]_^[
+t$$]_^[
+t$$]_^[
+t$$]_^[
+]_^[
+t$$]_^[
+D$(]_^[
+t$$]_^[
+t$$]_^[
+t$$]_^[
+=X6B
+=|8B
+=X6B
+=|8B
+SVWUj
+]_^[
+t.;t$$t(
+SVWd
+D$$@
+D$(PQ
+L$(Q
+4SVW
+`SVW
+< v5F
+>"t&
+SVWU
+]_^[
+]_^[
+]_^[
+]_^[
+]_^[
+]_^[
+]_^[
+]_^[
+]_^[
+F9=|8B
+SVWUt3
+80t@
+]_^[
+SVWUt3
+0000
+]_^[
+SVWU
+]_^[
+D$ PWVU
+]_^[
+f#L$
+QRPj
+t$dPQV
+|$hP
+|$hV
+t$tQ
+L$tR
+T$tVj
+QRWP
+D$( t
+L$@h
+L$ P
+D$Hh
+SVWU
+]_^[
+~*SP
+SVW3
+]_^[
+SVWU
+]_^[
+]_^[
+.;|$(u
+D$$j
+G;t$
++|$(
+]_^[
+]_^[
+]_^[
+D$ h
+]_^[
+D$$3
+																								
+													
+													
+										
+					
+G9=T
+ _^[
+SVWU
+t$ ;
+]_^[
+L$$+
+D$$j
+D$ ;
+]_^[
+]_^[
+D$ ]+
+WUuOj
+hH6B
+hL6B
+]_^[
+WRPQ
+]_^[
+9t$,u	
+L$0j
+WPj	Q
+]_^[
+]_^[
+L$0SWPj
+USPQ
+PUSQR
+]_^[
+VUSPQ
+D$(j
+D$4j
+WVh 
+L$4P
+PWVh 
+]_^[
+J#D$
+DSVWUh
+]_^[
+t$ WU
+]_^[
+]_^[
+;_^[
+;]_^[
+9csm
+D$$P
+D$$P
+D$$PV
+D$ VP
+t$$VQ
+VRPQ
+D$<9H
+8csm
+D$,j
+L$8P
+8csm
+8csm
+D$HQ
+L$DRPQ
+9L$ 
+\$$tc
+t];p
+T$@SPQ
+D$HQR
+L$LP
+T$LQR
+9D$ 
+D$,j
+]_^[
+D$@Q
+L$@R
+T$@P
+D$@Q
+L$@RPQ
+ ]_^[
+]_^[
+SVWUt5
+t$,P
+D$,W
+L$,V
+T$,P
+D$,QRP
+\$0PQSWV
+s[9]
+T$(P
+D$(WUj
+L$8R
+T$8PQR
+]_^[
+|$ U
+N9+}
+9csm
+D$8V
+PSQW
+PSQWV
+]_^[
+8csm
+8csm
+589B
+=49B
+=49B
+589B
+Uz6B
+SVW3
+=t=Q
+]_^[
+>"tF
+>"t0
+>"u$
+T$ ]_^[
+=@9B
+SVWUu@
+]_^[
+=@9B
+]_^[
+USVWj
+]_^[
+]_^[
+=@9B
+]_^[
+]_^[
+]_^[
+]_^[
+SVWUP
+9-L:B
+]_^[
+]_^[
+=`;B
+-L:B
+-L:B
+@x:B
+@t:B
+=d:B
+]_^[
+]_^[
+VC20XC00U
+SVWU
+tEVU
+t3x<
+]_^[
+VWU9
+hT>B
+]_^[
+IQRV
+]_^[
+t$lW
+D$8S
+SVWU
+]_^[
+]_^[
+]_^[
+0FHu
+>9u	
+u%fN
+]_^[
+]_^[
+t$,W
+#D$<
+L$$U
+D$$Q
+L$@RP
+]_^[
+]_^[
+]_^[
+u%SW
+]_^[
+]_^[
+]_^[
+SVWUuL
+hH6B
+hL6B
+]_^[
+PSQR
+]_^[
+|$(;
+=h6B
+D$ j
+L$ j
+PQj	W
+t>Uj
+D$ U
+L$ VPQj
+L$$QP
+D$ VP
+]_^[
+8csm
+SVW3
+uBh$CB
+PQRV
+uo9t$
+t$ Wf
+]_^[
+l$<3
+|$43
+=|8B
+=|8B
+=|8B
+=|8B
+=|8B
+D$SM
+T$<PQR
++|$|
+L$XPWQ
+L$ff
+L$<f
+\$hf
+D$$]_^[
+D$+?f
+L$Df
+]_^[
+D$C@u.
+]_^[
+L$,C
+KK<5|7;
+]_^[
+SVWU
+]_^[
+5PCB
+5\CB
+5TCB
+5XCB
+]_^[
+]_^[
+]_^[
+SVW3
+G9=T
+]_^[
+SVW3
+U95`
+=};j
+]_^[
+]_^[
+t$(Wf
+T$4f
+>_^[
+]_^[
++D$ 
+T$4f
+D$$f
+L$(u
+f9D$
+]_^[
+|?5^
+@333333
+?333333
+?333333
+?ffffff
+?333333
+?333333
+?333333
+ (8PX
+700WP
+``````
+ppxxxx
+default.bds
+?DX-Ball
+Another Windows application has control of the sound system. 
+ABORT will exit.  RETRY will attempt to get sound system after other application releases it.  IGNORE will continue without sound effects.
+DX-Ball
+Direct X can not find your sound card.  
+Do you wish to continue this application without sound?
+DX-Ball
+Direct X failed to start the sound system.  
+Do you wish to continue this application without sound?
+DX-Ball
+Direct X sound system failed to get the proper cooperation level with another application.  
+Do you wish to continue this program without sound?
+DX-Ball
+Direct X sound system failed to initialize. 
+ (lpPrimaryBuffer create) 
+Do you wish to continue this program without sound?
+DX-Ball
+Direct X sound system failed to initialize. 
+ (lpPrimaryBuffer playLooping) 
+Do you wish to continue this program without sound?
+highscor.pcx
+mainmenu.sbk
+sysfont.sbk
+acker-gs.mds
+You have a high score!
+Enter your name:
+Your score:
+highscor.pcx
+score.dat
+score.dat
+score.dat
+ **** DX-BALL by Michael P. Welch ****
+ Dedicated to those who love the Amiga
+ and its most popular shareware
+ game... MegaBall. The Mackey brothers
+ did a great thing with the breakout
+ concept. So wonderful in fact, that
+ my wife enjoyed MegaBall 3 way more
+ than my game `Scorched Tanks.'
+ I've finally written a game that
+ holds her interest.  :)
+ *****--------------------------*****
+ \\\This is a 100% Direct X game.///
+           ///Hope you like it!\\\
+ *****--------------------------*****
+ *****--------------------------*****
+score.dat
+score.dat
+highscor.pcx
+ WELCOME TO DX-BALL.     GREETINGS GO OUT TO:  ED + AL MACKEY, SIMEON, LARRY, MIKE BOEH, DARK UNICORN PRODUCTIONS (SHANE, JOHN, SEUMAS, ERIC (SIDEWINDER), REMEMBER KIT...), AND THE 'MAD TESTER' CHAY-BOB.     LAST MINUTE SUPER THANKS GOES TO SHANE MONROE FOR THE DX-BALL WEB PAGE.    IT ROCKS!     THIS PROJECT WAS MANY LONG MONTHS IN THE MAKING.    LATE NIGHTS, LOTS OF MOUNTAIN DEW, AND MANY PROGRAMMING BOOKS GOT THIS, MY FIRST DIRECT X AND PC GAME, FINISHED FOR YOUR VIEWING PLEASURE.      ABOUT THE GAME: I KNOW 'BREAKOUT' GAMES HAVE BEEN DONE TO DEATH, BUT I HAVEN'T FOUND ONE YET THAT'S AS COMPELLING AS MEGABALL FOR THE AMIGA COMPUTER.    SINCE MEGABALL IS MY WIFE'S FAVORITE GAME, I THOUGHT I'D MAKE HER A VERSION THAT SHE CAN PLAY ON MY PENTIUM 60.  :)      BY THE WAY, DX-BALL IS MEANT TO BE AN AMIGA GAME TRAPPED IN A PC'S BODY.   (SMILE)    ALSO GOT SOME RETRO COMMODORE 64 MIXED IN HERE AND THERE...  IF ONLY I HAD A DIRECT SOUND 'MOD' PLAYER, THEN EVERYTHING WOULD BE PERFECT!      ABOUT THE AUTHOR: HI I'M MIKE, BUT SOME CALL ME 'SCORCH.'    I'M THAT KID WHO WROTE THE AMIGA GAME 'SCORCHED TANKS.'    I KNOW, I KNOW, ALL YOU PC PEOPLE ARE SAYING 'NO STUPID, THAT'S SCORCHED EARTH!'    WELL, 'S-TANKS' WAS THE AMIGA ANSWER TO 'EARTH.'    THE WHOLE SCORCH PROJECT WAS VERY EXCELLENT AND THE RESPONSE FROM MY FELLOW AMI FANS WAS INCREDIBLE.    CERTAINLY, '94 WAS THE BEGINNING OF THE REST OF MY LIFE, AND I MUST SAY THANKS TO MY FRIENDS ALL OVER THE WORLD.        HEY, IF YOU'RE STILL READING THIS SCROLLER, THEN MORE POWER TO YA!   LET'S TALK ABOUT CODE...   DX-BALL WAS WRITTEN TO BE COMPATIBLE WITH EVERY POSSIBLE PC THAT CAN INSTALL DIRECT X 2.    I BOUGHT 4 VIDEO CARDS ON MY OWN AND BORROWED 2 VIDEO CARDS FROM MY GOOD FRIEND MIKE BOEH.    I TOOK DX-BALL TO WORK, NEIGHBOR'S HOUSE, FATHER-IN-LAW'S HOUSE, BROTHER-IN-LAW'S HOUSE, AND EVEN HAD IT TESTED WITH WINDOWS NT AS SOON AS THE NEW RELEASE SUPPORTED DIRECT X.    I EVEN ASKED/FORCED MY FRIENDS TO TAKE IT HOME AND TRY IT ON THEIR PC'S.  :O  MAN I FOUND A LOT OF BUGS IN THE GAME, AND LOTS OF QUIRKS IN DIRECT X.    I HOPE I GOT THEM ALL, BUT IF I DIDN'T, I KNOW I CAN COUNT ON 'YOU' TO SEND ME AN E-MAIL.    SO I FOUND OUT TWO IMPORTANT THINGS FROM MY EXPERIMENTS.    FIRST OF ALL, DIRECT X'S HARDWARE ACCELERATION IS VERY COOL.    SECOND, I LEARNED THAT NOT EVERY VIDEO CARD SUPPORTS IT.    FOR INSTANCE, VIDEO CARDS WITH: S3, MACH32/64, MATROX, TSENG, AND OTHERS WITH HARDWARE SUPPORT CAN SPEED-UP GRAPHICS 'BLITTING' BY AT LEAST 3X IF DONE PROPERLY.    BUT THERE ARE VERY COMMON VIDEO CARDS WITH TRIDENT OR ARK CHIPSETS THAT HAVE NO SUPPORT.    THEY WILL RUN DIRECT X GAMES, BUT THE EMULATION MODE CAN SLOW IT WAY DOWN.    UNTIL THE DAY THAT EVERYONE GETS A NEW COMPUTER OR VIDEO CARD, DIRECT X WILL NOT REACH IT'S FULL POTENTIAL.    BUT FOR NOW, US PROGRAMMERS WILL WORK OUR BRAINS OUT TO GIVE EVERYONE A CHANCE TO PLAY OUR GAMES.    DX-BALL RUNS ON ALL VIDEO CARDS, EITHER IN THE BLAZING FAST MODE, OR IN THE 'COMPATIBILITY' MODE THAT KEEPS UP WITH THE 60 FPS STANDARD.    I ONLY ASK THAT IF YOUR SYSTEM HAS A VERY HIGH REFRESH RATE... THEN MAYBE YOU OUGHT TO LOWER IT FOR THE SAKE OF PLAYING DX-BALL AT A NORMAL SPEED.  :)    WELL, I'VE TALKED ABOUT EVERYTHING NOW AND IT'S TIME TO WRAP-UP THIS EXTRA LONG SCROLLER.    THANKS FOR READING, AND ENJOY THE GAME.                                                 MADE YOU LOOK!  HEHEHEHEHEHE                                                                  
+intro.pcx
+candy.sbk
+chisel2.sbk
+whine.wav
+VIDEO CARD:
+NO HARDWARE ACCELERATION
+DEFAULT TO >COMPATIBLE< MODE
+LOW VIDEO MEMORY
+DEFAULT TO >COMPATIBLE< MODE
+REFRESH RATE ABOVE 60 MHZ
+DEFAULT TO >COMPATIBLE< MODE
+HARDWARE ACCELERATION FOUND
+AND SUPPORTED
+AUTHOR:
+MICHAEL P. WELCH
+3D GFX:
+SEUMAS McNALLY
+E-MAIL:
+MWELCH@NETWAVE.NET
+SEND COMMENTS, BUGS, AND GREETINGS TO GET
+HINT FOR LEVEL EDITOR AND OTHER TIPS.
+mbbkgrnd.pcx
+mball2.sbk
+sfont.sbk
+mainmenu.sbk
+default.bds
+default.bds
++           -- Next Board
+-           -- Previous Board
+BKSP  -- Clear Board
+L           -- Load Boards
+S           -- Save Boards
+CTRL  -- Hold to Draw
+DX-Ball
+DX-Ball
+Direct X could not initialize. (DX Object failed)
+DX-Ball
+Direct X could not initialize. (Exclusive/Fullscreen failed)
+DX-Ball
+Direct X could not initialize. (640x480 failed)
+DX-Ball
+Direct X could not initialize. (Primary Failed)
+DX-Ball
+DX-Ball
+Direct X could not initialize. (DX Object failed)
+DX-Ball
+Direct X could not initialize.(Coop Normal failed)
+DX-Ball
+Direct X could not initialize. (Primary failed)
+DX-Ball
+Direct X could not initialize. (Offscreen failed)
+DX-Ball
+Direct X could not initialize.(Clipper failed)
+DX-Ball
+Direct X could not initialize. (Clipper SetHWnd failed)
+DX-Ball
+Direct X could not initialize. (Clipper->Primary failed)
+DX-Ball
+DX-Ball is already running.
+DX-Ball
+DX-Ball
+mainmenu.pcx
+mainmenu.sbk
+thefont.sbk
+sfont.sbk
+ethno_pa.mds
+Last Score - 
+V 1.07
+By Michael P. Welch
+Copyright  1996  by Michael P. Welch,  All Rights Reserved.
+You may freely distribute this game so long as it's not sold for profit without the author's written consent.
+BASED ON  ``MEGABALL``
+BY ED AND AL MACKEY
+mbbkgrnd.pcx
+mball2.sbk
+thefont.sbk
+bigbolt.pcx
+boing.wav
+effect.wav
+bang.wav
+ao-laser.wav
+bassdrum.wav
+byeball.wav
+wowpulse.wav
+saucer.wav
+orchestr.wav
+effect2.wav
+sweepdow.wav
+peow!.wav
+fanfare.wav
+padexplo.wav
+ricochet.wav
+swordswi.wav
+gunfire.wav
+humm.wav
+glass.wav
+orchblas.wav
+voltage.wav
+thudclap.wav
+tank.wav
+xplosht1.wav
+xploshor.wav
+PAUSED
+12flight.mds
+acker-gs.mds
+brain.mds
+ethno_pa.mds
+freebee.mds
+gmfigaro.mds
+mbbkgrnd.pcx
+GetCurrentThread
+SetThreadAffinityMask
+GetCurrentProcess
+GetProcessAffinityMask
+KERNEL32
+e+000
+asin
+acos
+atan
+atan2
+sqrt
+frexp
+fmod
+_hypot
+_cabs
+ldexp
+modf
+fabs
+floor
+ceil
+sqrt
+atan2
+atan
+acos
+asin
+tanh
+cosh
+sinh
+log10
+runtime error 
+TLOSS error
+SING error
+DOMAIN error
+R6027
+- not enough space for lowio initialization
+R6026
+- not enough space for stdio initialization
+R6025
+- pure virtual function call
+R6024
+- not enough space for _onexit/atexit table
+R6019
+- unable to open console device
+R6018
+- unexpected heap error
+R6017
+- unexpected multithread lock error
+R6016
+- not enough space for thread data
+abnormal program termination
+R6009
+- not enough space for environment
+R6008
+- not enough space for arguments
+R6002
+- floating point not loaded
+Microsoft Visual C++ Runtime Library
+Runtime Error!
+Program: 
+<program name unknown>
+log10
+Assertion failed: %s, file %s, line %d
+GetLastActivePopup
+GetActiveWindow
+MessageBoxA
+user32.dll
+1#QNAN
+1#INF
+1#IND
+1#SNAN
+(null)
+kU'9
+HMXB
+?Zd;
+?/L[
+S;uD
+z?aUY
+D?$?
+U>c{
+zc%C1
+.:3q
+-64OS
+NKeb
+DirectDrawCreate
+DDRAW.dll
+DirectSoundCreate
+DSOUND.dll
+midiStreamRestart
+midiStreamOut
+midiOutPrepareHeader
+midiStreamProperty
+midiStreamOpen
+midiStreamPause
+midiStreamClose
+midiOutUnprepareHeader
+midiOutReset
+timeGetTime
+WINMM.dll
+CloseHandle
+UnmapViewOfFile
+LocalFree
+MapViewOfFile
+CreateFileMappingA
+GetFileSize
+CreateFileA
+LocalAlloc
+GlobalFree
+GlobalHandle
+GlobalUnlock
+GlobalLock
+GlobalAlloc
+ReadFile
+QueryPerformanceCounter
+QueryPerformanceFrequency
+GetVersionExA
+MulDiv
+CreateSemaphoreA
+OpenSemaphoreA
+KERNEL32.dll
+MessageBoxA
+DestroyWindow
+ShowWindow
+SetFocus
+UpdateWindow
+CreateWindowExA
+RegisterClassA
+LoadCursorA
+LoadIconA
+WaitMessage
+DispatchMessageA
+TranslateMessage
+GetMessageA
+PeekMessageA
+GetCursorPos
+DefWindowProcA
+ReleaseCapture
+SetCapture
+PostQuitMessage
+PostMessageA
+SetCursor
+SetCursorPos
+USER32.dll
+GetStockObject
+GDI32.dll
+HeapFree
+HeapAlloc
+ExitProcess
+GetLastError
+GetFileAttributesA
+RtlUnwind
+GetModuleHandleA
+GetStartupInfoA
+GetCommandLineA
+GetVersion
+GetProcAddress
+LoadLibraryA
+RaiseException
+HeapCreate
+WriteFile
+MultiByteToWideChar
+LCMapStringA
+WideCharToMultiByte
+LCMapStringW
+SetHandleCount
+GetFileType
+GetStdHandle
+SetFilePointer
+UnhandledExceptionFilter
+GetModuleFileNameA
+FreeEnvironmentStringsA
+GetEnvironmentStrings
+FreeEnvironmentStringsW
+GetEnvironmentStringsW
+GetCPInfo
+GetACP
+GetOEMCP
+SetStdHandle
+FlushFileBuffers
+GetStringTypeA
+GetStringTypeW
+SetUnhandledExceptionFilter
+IsBadReadPtr
+IsBadWritePtr
+IsBadCodePtr
+SetEndOfFile
+HeapReAlloc
+HeapSize
+3 5'545;577>7K7R7e7
+<4<D<_<o<
+=8=I=h=
+>2>H>Y>j>{>
+>/?@?Q?b?s?
+0O0f0|0
+3C4U4^4f4l4
+6-737J7P7
+8u8~8
+8*939;9
+:5;L;U<[<p<
+= =&=R=i=x=
+>@>W>
+>"?9?H?Q?Y?_?
+0'0D3\3
+4?4[4h4y4
+6$6J6P6l6r6
+7!7;7R7\7j7
+8-9195999=9A9Z9
+9/:8:>:e:o:y:
+;';1;>;K;Y;
+>#>Z>z>
+?&?:?
+0 0I0`0i0
+1.171N1Z1`1
+262?2V2b2h2
+3%313H3P3g3p3
+4K4b4o4u4
+5.5K5b5
+6^6o6u6
+8!888D8[8g8~8
+9&979j9
+:.:6:M:s:
+:Z;q;y;
+<&<4<K<S<j<v<
+=4===T=_=v=
+>T>h>s>
+>9?J?`?
+0%0<0W0k0
+0.1R1b1y1
+192>2H2_2
+3x3~3
+484>4I4
+5/545>5U5a5g5r5{5
+6$626H6N6Y6b6h6s6
+7$7/7
+8!8.8?8P8\8b8m8w8
+929?9P9`9s9
+9C:W:p:v:
+:	;f;s;
+<-<[<l<
+=O=\=
+>%><>I>
+?&?3?V?c?y?
+0.0K0\0v0
+1#1J1W1n1
+4 4)4N4b4g4u4
+5!5*505<5K5U5
+6'6>6J6c6~6
+7;7V7[7`7e7k7{7
+8/8;8G8L8s8
+9+9G9i9x9}9
+:U;z;
+<+<Y<
+=3=j=
+>(>F>e>l>
+?(?2?8?=?O?Y?_?d?x?
+0&0,010E0O0U0Z0n0x0~0
+1"1'1;1F1\1a1n1t1
+2 2V2c2h2n2
+3 3?3E3J3P3W3
+314E4J4X4i4
+5(5E5K5y5
+6#636L6V6\6
+7L7_7w7
+8"8;8Y8r8
+919K9b9l9r9
+:-:>:X:e:o:y:
+:1;A;P;g;q;w;
+<+<1<F<Y<m<s<
+=(=S=`=f=
+>%>+>=>C>N>T>d>j>u>{>
+?3?G?T?`?t?
+0$0+010<0I0O0
+1H1i1
+2*202:2A2T2[2d2o2
+3+3B3R3i3r3
+4&4/4K4v4
+5!545;5D5O5j5q5w5
+6"626I6R6i6y6
+7+7o7
+8,8?8H8d8
+90979=9J9]9f9
+:9:b:l:r:}:
+;#;6;?;[;w;~;
+<&<4<?<`<g<m<z<
+=+=7=G=V=f=w=
+>)>8>H>X>h>n>t>
+?(?8?>?D?T?Z?j?p?v?
+0*0K0[0a0
+1/1;1E1P1\1
+252A2M2c2o2{2
+313G3Z3p3
+4 4&42484>4a4w4
+4-545[5h5r5
+5"6G6M6~6
+7"7/747;7A7]7c7i7
+8@8`8
+8\9|9
+;$;D;\;a;h;n;
+&0T0
+1z1Y2f2
+4 4-4@4T4g4y4
+5(545R5\5m5z5
+6#676C6a6k6|6
+7&727F7R7p7z7
+8"888L8R8
+9&939=9Q9W9{9
+:#:-:A:G:k:(;A;N;[;e;s;y;
+3'4V4
+2+272J2Y2m2v2
+3(3.3W3a3g3r3
+4,4?4E4[4a4v4|4
+4g5z5
+6 6*676D6T6a6p6x6
+8/8=8F8^8l8
+:#;4;:;J;
+;7<H<N<_<l<y<
+<->1>5>9>=>A>E>I>M>Q>U>Y>]>a>e>i>m>q>u>y>}>
+0"0'0/040:0Q0X0]0d0i0p0w0~0
+1!1(1-12191>1E1]1c1|1
+2;2E2O2
+3-343^3g3m3
+4!484?4L4X4^4d4{4
+5)535@5b5g5o5t5z5
+6 6'656;6A6Z6a6h6m6r6y6~6
+70777>7C7H7O7T7[7
+8 8'8,81888=8D8P8X8^8w8~8
+9I9N9V9f9
+:4:>:I:`:
+:#;7;P;d;
+<+<@<^<
+=(=.===C=R=X=l=y=
+>/?9?K?Y?^?c?
+0>0K0Z0d0p0
+1(181Q1[1a1k1
+2"2E2e2
+383S3X3]3b3h3x3
+4L4Y4c4
+4D<S<b<y<
+=)=O=j=
+>>>Q>^>y>
+>*?=?J?e?t?
+W0g0v0
+5'515<5P5U5
+6%646C6R6a6p6
+7%7/797C7[7j7v7
+8'8K8U8[8f8s8
+9+9F9K9P9U9_9q9z9
+:*:C:V:
+;6;@;S;
+<)<4<<<M<c<k<
+=A=J=Y=e=v=
+> >,>>>J>]>g>y>
+?)?6?
+3W3d3n3w3
+3#474K4_4s4
+4"5)5-5155595=5A5E5I5M5Q5U5Y5]5a5e5
+6$6-656=6E6N6V6b6n6z6
+838U8d8s8
+9C9Q9\9n9
+:/:C:`:h:p:
+;*;3;;;D;L;U;a;i;p;u;
+<4<@<H<N<V<x<
+=/=A=Z=|=
+>b>k>
+?)?F?N?V?c?l?
+0!0)01090H0U0^0r0
+1&111W1c1u1}1
+1"2.2B2J2R2_2h2|2
+3'3>3P3\3n3w3
+4%494B4V4e4z4
+545D5Y5i5~5
+6 6)6=6F6N6_6n6y6
+6d7q7
+7(848?8>9K9z9	:b:
+040;0U0\0
+181?1Y1`1
+3/3I3m3t3
+5,5m5
+6'6<6D6P6\6v6:7B7H7Y7a7p7
+9'9;9A9J9S9Y9{9
+:0:8:F;T;];g;v;
+< <;<J<V<b<j<v<
+=!=)=8=H=Q=b=q=
+>%>3>=>K>[>i>o>{>
+?*?0?=?K?Q?n?~?
+0 0,0>0J0X0]0p0
+131=1B1z1
+2#2_2m2
+3 313A3I3S3_3j3q3
+6#626>6T6
+7)727:7P7X7g7q7
+8D91:?:K:W:c:k:
+;-;8;I;T;e;p;
+<)<4<E<P<a<l<}<
+=!=%=)=-=1=5=9===A=E=I=M=Q=U=Y=]=a=e=i=o=*><>E>M>V>^>f>u>}>
+?(?1?E?N?V?j?~?
+0'0?0H0\0e0n0w0
+1$1C1M1W1g1
+2=2M2w2
+2	3'373A3G3U3e3o3w3
+434C4M4S4a4q4{4
+5,5K5`5~5
+6'6+6/63676;6?6C6G6K6O6S6W6[6_6c6g6k6o6s6}6G7Y7b7k7|7
+9&969>9
+:":):2:::I:Q:`:h:t:
+=!=.===`=x=
+>$>,>3><>D>M>U>^>f>o>w>
+? ?1?9?K?^?c?m?v?~?
+0&0/070@0H0Z0
+1)171I1T1x1
+2"2>2M2`2
+233T3t3
+4$4s4
+595V5r5
+676I6U6
+6g7q7w7
+7'898H8Y8
+8+959;9E9
+9	:!:
+:8;B;L;R;_;i;
+;"<,<L<V<y<
+=#=(=6=<=F=P=Z=c=s=}=
+>7>C>Q>l>y>
+?K?X?u?{?
+c0e1v1
+2 292J2
+4B4e4u4
+6C6H6L6P6T6
+8^8f8u8}8
+0Y1t1
+1f2p2
+4,4}4!5+5M5
+6$6+6A6K6\7c7q7
+9R9g9o9x9
+<9=l=p=t=x=|=
+0"0,0E0o0
+051_1u1
+3b4|4
+8(828T8
+829R9
+9@:G:P:
+;$;n<t<
+>S?[?j?o?
+1@1M1V1^1
+4$4R4
+:::F:S:V<a<s<
+>7?A?
+0)1?1
+2j3t3
+5,5054585<5@5D5H5L5P5
+8J9T9
+:!:*:I:V:n:w:
+:0;J;
+<<=B=f=z=
+>(>?>\>i>
+>H?]?
+6,818X8d8o8x8
+8l9q9l;q;l<q<
+>*>=>P>c>v>
+?7?U?
+0;0D0I0O0Z0
+1_1D2e2
+414h4
+5*5<5^5|5
+626E6O6Z6d6o6x6
+8%8I8b8k8~8
+9!9b9
+;4<~<
+<(=E=Y=d=
+? ?$?(?,?
+E5e5
+7!8B8N8
+9(9H9X9y9
+:&:;:S:b:l:u:
+;-;I;g;
+;6<=<I<S<
+>X?\?`?d?h?
+0;0C0^0c0v0
+1A1N1T1Y1
+2W2^2d2o2u2}2
+2"3-3^3n3
+588R8
+8&9`9|9
+:;:|:
+> >$>(>,>0>4>8><>@>
+/040i0n0
+3!3(3.3`3i3t3z3
+4 4$4(4,404Q4b4l4
+636E6V6
+647=7m7}7
+8+81898A8G8S8
+8K<X<
+<&=7=
+,101
+3$3,343<3D3L3X3t3|3
+0 0$0(04080D0
+0"0&0*0.02060:0>0B0F0J0N0R0V0Z0^0b0f0j0n0r0v0z0~0
+1B1F1J1N1b1f1j1n1
+2@2D2H2L2`2d2h2l2
+4$4,444<4D4L4T4\4d4l4t4|4
+4p6t6
+>$>,>4><>D>L>D?H?L?P?T?X?\?`?d?h?l?p?t?x?|?
+H0L0P0X0`0

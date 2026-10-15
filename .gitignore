@@ -1,0 +1,11 @@
+original/
+ghidra/*.gpr
+ghidra/*.rep/
+ghidra/*.lock*
+notes/decomp/
+notes/decomp.c
+notes/fn_*.c
+notes/pcx/
+build/
+*.o
+dxball

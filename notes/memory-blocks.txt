@@ -1,0 +1,7 @@
+Headers	00400000	004003ff	size=1024	r--
+.text	00401000	0041ffff	size=126976	r-x
+.rdata	00420000	004203ff	size=1024	r--
+.data	00421000	00440d7f	size=130432	rw-
+.idata	00441000	00441bff	size=3072	rw-
+.rsrc	00442000	004423ff	size=1024	r--
+.reloc	00443000	004459ff	size=10752	r--

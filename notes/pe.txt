@@ -1,0 +1,124 @@
+file=/home/scp1/dev/dxball/original/Dxball/DXBALL.EXE
+size=158208
+machine=0x14c
+sections=6
+timestamp=846765197
+characteristics=0x10e
+entry_rva=0x187a0
+entry_va=0x4187a0
+image_base=0x400000
+subsystem=2
+
+sections:
+  .text    va=0x001000 vsz=0x1eeec raw=0x000400 rsz=0x1f000
+  .rdata   va=0x020000 vsz=0x3d8 raw=0x01f400 rsz=0x400
+  .data    va=0x021000 vsz=0x1fd80 raw=0x01f800 rsz=0x3800
+  .idata   va=0x041000 vsz=0xaa0 raw=0x023000 rsz=0xc00
+  .rsrc    va=0x042000 vsz=0x39c raw=0x023c00 rsz=0x400
+  .reloc   va=0x043000 vsz=0x28ba raw=0x024000 rsz=0x2a00
+
+imports:
+  DDRAW.dll
+    DirectDrawCreate hint=5
+  DSOUND.dll
+    DirectSoundCreate hint=0
+  WINMM.dll
+    midiStreamPause hint=92
+    timeGetTime hint=148
+    midiOutReset hint=85
+    midiOutUnprepareHeader hint=88
+    midiStreamClose hint=89
+    midiStreamOpen hint=90
+    midiStreamProperty hint=94
+    midiOutPrepareHeader hint=84
+    midiStreamOut hint=91
+    midiStreamRestart hint=95
+  KERNEL32.dll
+    IsBadCodePtr hint=361
+    IsBadWritePtr hint=367
+    IsBadReadPtr hint=364
+    SetEndOfFile hint=495
+    SetUnhandledExceptionFilter hint=529
+    GetStringTypeW hint=282
+    GetStringTypeA hint=279
+    FlushFileBuffers hint=131
+    CloseHandle hint=22
+    UnmapViewOfFile hint=553
+    LocalFree hint=386
+    GetFileSize hint=218
+    HeapSize hint=349
+    HeapReAlloc hint=348
+    CreateFileA hint=43
+    LocalAlloc hint=382
+    GlobalFree hint=327
+    GlobalHandle hint=330
+    GlobalUnlock hint=337
+    GlobalLock hint=331
+    GlobalAlloc hint=320
+    ReadFile hint=440
+    QueryPerformanceCounter hint=427
+    QueryPerformanceFrequency hint=428
+    GetVersionExA hint=312
+    MulDiv hint=402
+    CreateSemaphoreA hint=58
+    OpenSemaphoreA hint=414
+    MapViewOfFile hint=396
+    CreateFileMappingA hint=44
+    GetOEMCP hint=246
+    GetFileAttributesA hint=215
+    RtlUnwind hint=455
+    GetEnvironmentStringsW hint=210
+    FreeEnvironmentStringsW hint=140
+    GetCPInfo hint=152
+    FreeEnvironmentStringsA hint=139
+    GetModuleFileNameA hint=233
+    GetACP hint=146
+    SetStdHandle hint=518
+    GetModuleHandleA hint=235
+    GetEnvironmentStrings hint=208
+    UnhandledExceptionFilter hint=550
+    SetFilePointer hint=504
+    GetStdHandle hint=278
+    GetFileType hint=220
+    SetHandleCount hint=506
+    LCMapStringW hint=374
+    WideCharToMultiByte hint=578
+    LCMapStringA hint=373
+    MultiByteToWideChar hint=403
+    WriteFile hint=591
+    HeapFree hint=345
+    HeapAlloc hint=339
+    ExitProcess hint=98
+    GetLastError hint=225
+    GetCommandLineA hint=159
+    HeapCreate hint=341
+    GetStartupInfoA hint=276
+    LoadLibraryA hint=376
+    GetVersion hint=311
+    GetProcAddress hint=259
+    RaiseException hint=430
+  USER32.dll
+    WaitMessage hint=578
+    MessageBoxA hint=392
+    DestroyWindow hint=134
+    SetCursorPos hint=474
+    SetCursor hint=472
+    PostMessageA hint=419
+    PostQuitMessage hint=421
+    ShowWindow hint=534
+    ReleaseCapture hint=440
+    DefWindowProcA hint=125
+    GetCursorPos hint=229
+    PeekMessageA hint=417
+    GetMessageA hint=269
+    RegisterClassA hint=427
+    LoadIconA hint=363
+    LoadCursorA hint=359
+    SetFocus hint=481
+    CreateWindowExA hint=82
+    UpdateWindow hint=567
+    DispatchMessageA hint=140
+    TranslateMessage hint=556
+    SetCapture hint=464
+  GDI32.dll
+    GetStockObject hint=238
