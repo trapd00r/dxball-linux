@@ -21,7 +21,7 @@ Gameplay is meant to match v1.07. The Linux port adds the following:
   General MIDI soundfont, instead of Windows `midiStream`.
 - WAV sound effects play through the system audio mixer with the original
   left/right pan.
-- Builds with gcc. GitHub Actions publishes a Linux binary on every push.
+- Builds with gcc. GitHub Actions publishes a Linux binary on [Releases](https://github.com/trapd00r/dxball-linux/releases).
 
 Brought over from 1.07: all 50 boards, the 19 bonuses, fireball / guns /
 sticky paddle, bomb bricks, invisible bricks, the board editor, high scores,
@@ -104,12 +104,22 @@ DXBALL_DATA=/path/to/Dxball ./dxball
 Cheats (held Ctrl, during play, same as 1.07): F1 reset paddle, F2 sticky,
 F3 guns, F4 grow paddle.
 
-## GitHub Actions
+## GitHub Releases
 
-Push or open a pull request and `.github/workflows/build.yml` builds the
-Linux binary on Ubuntu. Download the `dxball-linux` artifact from the run.
-You still need the original data directory and a GM soundfont on the machine
-that plays it.
+Each push to `master` or `main` updates the [latest
+release](https://github.com/trapd00r/dxball-linux/releases/latest) with
+`dxball-linux-x86_64`. A tag matching `v*` (for example `v1.0`) creates a
+versioned release.
+
+That download is the engine only. Point it at your original data directory:
+
+```
+chmod +x dxball-linux-x86_64
+./dxball-linux-x86_64 /path/to/Dxball
+```
+
+Pull requests still compile and attach an Actions artifact; they do not
+publish a Release.
 
 ## Reverse engineering
 

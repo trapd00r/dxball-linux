@@ -3,8 +3,12 @@ name: build
 on:
   push:
     branches: [main, master]
+    tags: ['v*']
   pull_request:
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   linux:
@@ -21,9 +25,26 @@ jobs:
       - name: Build
         run: make
 
+      - name: Name release binary
+        run: cp -a dxball dxball-linux-x86_64
+
       - name: Upload Linux binary
         uses: actions/upload-artifact@v4
         with:
           name: dxball-linux
-          path: dxball
+          path: dxball-linux-x86_64
           if-no-files-found: error
+
+      - name: Publish GitHub Release
+        if: github.event_name == 'push' && (github.ref == 'refs/heads/master' || github.ref == 'refs/heads/main' || startsWith(github.ref, 'refs/tags/v'))
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ startsWith(github.ref, 'refs/tags/') && github.ref_name || 'latest' }}
+          name: ${{ startsWith(github.ref, 'refs/tags/') && github.ref_name || 'latest' }}
+          files: dxball-linux-x86_64
+          make_latest: true
+          body: |
+            Linux x86_64 binary. You still need the original DX-Ball 1.07 data
+            directory (PCX, SBK, BDS, WAV, MDS) and a GM soundfont for music.
+
+            ./dxball-linux-x86_64 /path/to/Dxball
